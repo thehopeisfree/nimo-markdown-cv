@@ -1,15 +1,12 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Wenbiao "Nimo" Lai
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
-homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: mailto:wl1276@nyu.edu
+  text: wl1276@nyu.edu
 ---
 
-# Wode **Ni**
+# Wenbiao **Lai**
 
 <!--
 include contact information from the front matter
